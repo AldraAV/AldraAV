@@ -9,8 +9,7 @@
   <a href="https://github.com/AldraAV"><img src="https://img.shields.io/badge/GitHub-090D16?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=E59500&center=true&vCenter=true&width=500&lines=Curioso+por+naturaleza;Hecho+con+barro+del+bueno+y+Knorr+Suiza;Maruchan+Lover;Construyendo+cosas+utiles+del+dia+a+dia" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=E59500&center=true&vCenter=true&width=500&lines=Curioso+por+naturaleza;Hecho+con+barro+del+bueno+y+Knorr+Suiza;Maruchan+Lover" alt="Typing SVG" />
 </div>
 
 ---
@@ -63,13 +62,13 @@ No lo sé todo, hijo. Pero aquí andamos, aprendiendo, probando librerías, expe
 
 ---
 
-##  Proyectos que He Estado Construyendo
+## Proyectos que He Estado Construyendo
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-###  [Notes: EveryLetter](https://github.com/AldraAV/Notes-EveryLetter)
+### [Notes: EveryLetter](https://github.com/AldraAV/Notes-EveryLetter)
 
 **Sincronización P2P / M2M para Obsidian**
 
@@ -93,7 +92,7 @@ Entorno visual para resolver, graficar y analizar expresiones matemáticas sin c
 <tr>
 <td width="50%" valign="top">
 
-###  [Nona](https://github.com/AldraAV/Nona-)
+### [Nona](https://github.com/AldraAV/Nona-)
 
 **Reproductor web + Bitácora emocional**
 
@@ -104,7 +103,7 @@ Un reproductor minimalista con diario personal enfocado en la música y el biene
 </td>
 <td width="50%" valign="top">
 
-###  Automatizaciones & Experimentos
+### Automatizaciones & Experimentos
 
 **Scripts de vida diaria y herramientas de terminal**
 
@@ -118,7 +117,7 @@ Pequeños proyectos de automatización en Python (con gestor UV), scrapers, orde
 
 ---
 
-##  Actividad en GitHub
+## Actividad en GitHub
 
 <div align="center">
 
@@ -132,7 +131,7 @@ Pequeños proyectos de automatización en Python (con gestor UV), scrapers, orde
 
 <div align="center">
 
- ¿Tienes una idea o quieres charlar de código?  
-**manhalev1520@gmail.com**
+¿Tienes una idea o quieres charlar de código?  
+**<manhalev1520@gmail.com>**
 
 </div>
